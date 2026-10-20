@@ -1,0 +1,3 @@
+# Conflict
+
+The conflict was caused by my own need of making unnecessary changes in parallel, but the main issue was that I didn't use a templating engine…
